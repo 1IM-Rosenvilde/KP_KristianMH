@@ -7,6 +7,8 @@ body {
 
 
 /* Custom Writing */
+/* By uploding a custom file from example https://www.fontspace.com/flesh-and-blood-font-f42504 as a ttf file you can give it a custom attribute you can use when giving text a font-family. 
+I found out how to do so all texts work and not only fromsoftware.*/
 @font-face {
   font-family: 'CustomFont'; /* navn til skrift familien */
   src: url('Fleshandblood-MVA5x.ttf'); /* Skrift filen*/
